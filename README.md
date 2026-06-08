@@ -154,11 +154,6 @@ Mobile-Sales-Dashboard/
 * Customer Analytics
 * Dashboard Design
 
----
-
-## Dashboard Preview
-
-![Dashboard Preview](Screenshot 2026-05-14 223255.png)
 
 ---
 
